@@ -1,5 +1,5 @@
 # NTU_ML_Code
-My solutions to the coding exercises from NTU's Machine Learning courses offered by Prof. Hsuan-Tien Lin.
+My solutions to the coding exercises from NTU's Machine Learning courses (机器学习基石 and 机器学习技法) offered by Prof. Hsuan-Tien Lin.
 
 Unless otherwise noted, all algorithms were implemented from scratch using NumPy.
 
